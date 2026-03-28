@@ -18,16 +18,12 @@ DietBuddy is a full-stack AI-powered application that generates personalized die
 ## ⚙️ How to Run
 
 ### Backend
-1. Install dependencies:
-   pip install -r requirements.txt
-2. Run server:
-   uvicorn main:app --reload
+pip install -r requirements.txt  
+uvicorn main:app --reload  
 
 ### Frontend
-1. Install dependencies:
-   npm install
-2. Run:
-   npm run dev
+npm install  
+npm run dev  
 
 ## 📌 Future Improvements
 - User authentication
